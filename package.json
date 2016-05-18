@@ -1,0 +1,29 @@
+{
+  "name": "jsminprepper",
+  "version": "0.1.0",
+  "description": "Prepares js files for minification by fixing missing semicolons and other issues.",
+  "main": "index.js",
+  "dependencies": {
+    "mkdirp": "^0.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bernard2014/JSMinPrepper.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "node",
+    "minification",
+    "JS"
+  ],
+  "author": "Bernard Igiri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bernard2014/JSMinPrepper/issues"
+  },
+  "homepage": "https://github.com/Bernard2014/JSMinPrepper#readme"
+}
